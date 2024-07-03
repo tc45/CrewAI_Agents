@@ -7,7 +7,7 @@ research_company_task:
 
 analyze_company_task:
   description: >
-    Take {company_name}'s financial information, anlyze it, and provide a financial analysis, including:
+    Take {company_name}'s financial information, anlyze it, and provide a financial analysis, including: current stock price,
     profitability ratio, liquidity ratios, solvency ratios, efficiency ratios, growth metrics, valuation metrics, and cash flow.
   expected_output: >
     A nicely formatted analysis including all of the financial metrics necessary for a thorough financial analysis of a company.
